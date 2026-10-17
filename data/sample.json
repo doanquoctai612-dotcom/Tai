@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "currency": "VND",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "daily": [
+    {
+      "date": "2026-10-15",
+      "gmv": 15000000,
+      "orders": 30,
+      "sessions": 1200,
+      "adSpend": 2000000,
+      "adRevenue": 8000000,
+      "impressions": 50000,
+      "clicks": 1000,
+      "affiliateRevenue": 3000000,
+      "affiliateOrders": 6,
+      "commission": 300000
+    },
+    {
+      "date": "2026-10-16",
+      "gmv": 22000000,
+      "orders": 40,
+      "sessions": 1600,
+      "adSpend": 2500000,
+      "adRevenue": 10000000,
+      "impressions": 60000,
+      "clicks": 1200,
+      "affiliateRevenue": 4000000,
+      "affiliateOrders": 8,
+      "commission": 400000
+    }
+  ]
+}
